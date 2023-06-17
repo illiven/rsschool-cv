@@ -11,3 +11,18 @@
 I am a reliable and responsible person. I learn new things easily enough. I want to become a web developer.
 
 ***
+
+### Skills:
+- **HTML**
+- **CSS**
+- **Git**
+
+***
+
+### Code example:
+```
+function multiply(a, b){
+ return a * b
+}
+```
+***

@@ -26,3 +26,11 @@ function multiply(a, b){
 }
 ```
 ***
+
+### Education:
+- **[HTML & CSS 1](https://www.specialist.ru/course/eichtml-b?ysclid=liyi0wkt8r857157690)**
+- **[HTML & CSS 2](https://www.specialist.ru/course/ashtml2-a)**
+
+***
+### Languages:
+- **English** -beginner

@@ -137,6 +137,11 @@ body{
 .educationlist a:hover {
     text-decoration: underline;
 }
+
+.Languages {
+    width:90%;
+    margin: 0 auto;
+}
 .footer {
     width: 100%;
     background: #FEEDE6;
@@ -149,9 +154,4 @@ body{
     padding: 10px;
     margin-left: 50px;
     margin-right: 50px;
-}
-
-.Languages {
-    width:90%;
-    margin: 0 auto;
 }

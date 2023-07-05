@@ -1,0 +1,157 @@
+body{
+    background: #E1EEE8;
+}
+
+.container-center{
+    background: #DDDFDE;
+    max-width: 1024px;
+    min-width: 725px;
+    margin: 20px auto;
+    font-family: 'Roboto';
+    color: #414042;
+}
+.nav {
+    display: flex;
+    width: 100%;
+}
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.navitem {
+    list-style: none;
+}
+.navlink{
+    text-decoration: none;
+    color: #414042;
+    padding: 15px 15px;
+    font-family: 'Roboto';
+    font-size: 16px;;
+}
+.navlink:hover {
+    background: #FEEDE6;
+    padding: 15px 15px;
+}
+.content {
+    width: 95%;
+    background: #FFFFFF;
+    margin: 0 auto;
+    display: flex;
+}
+.leftcolomn {
+    width: 40%;
+    min-width: 280px;
+    margin: 0 25px;
+}
+.rightcolomn {
+    width: 55%;
+    min-width: 370px;
+    margin-top: 30px;
+}
+.header h1 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+.title {
+    font-size: 19px;
+    text-align: center;
+    font-weight: 200;
+    margin-top: 0;
+}
+.img {
+    width:250px;
+    margin: 0 auto;
+}
+.header img {
+    display: block;
+    margin:0 auto;
+    width: 250px;
+}
+.aboutme {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.heading {
+    border-bottom: 1px solid #414042;
+    border-top: 1px solid #414042;
+    text-align: left;
+    font-weight: 300;
+    padding: 0 20px;
+    background: #FEEDE6;
+}
+.aboutme p {
+    font-size: 16px;
+    text-align: justify;
+    padding:0 15px 0;
+    font-weight: 200;
+}
+.contact {
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.contactlist {
+    list-style: none;
+    font-weight: 300;
+}
+.contactlist li {
+    padding: 5px 0 0 5px
+}
+.skills {
+    width:90%;
+    margin: 0 auto;
+}
+
+.skillslist li{
+    padding: 6px;
+}
+.example {
+    width:90%;
+    margin: 0 auto;
+}
+
+.example pre {
+    margin-left: -100px;
+}
+.education {
+    font-family: 'Roboto';
+    color: #414042;
+    width:90%;
+    margin: 0 auto;
+}
+
+.educationlist {
+    list-style: none;
+}
+.educationlist li {
+    padding: 5px;
+}
+.educationlist a {
+    text-decoration: none;
+    color:#414042;
+}
+.educationlist a:hover {
+    text-decoration: underline;
+}
+
+.Languages {
+    width:90%;
+    margin: 0 auto;
+}
+.footer {
+    width: 100%;
+    background: #FEEDE6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer img {
+    width: 80px;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}

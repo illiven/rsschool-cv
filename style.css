@@ -137,6 +137,19 @@ body{
 .educationlist a:hover {
     text-decoration: underline;
 }
+.footer {
+    width: 100%;
+    background: #FEEDE6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer img {
+    width: 80px;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
 
 .Languages {
     width:90%;

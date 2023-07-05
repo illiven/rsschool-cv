@@ -1,3 +1,35 @@
-body {
-    background: #FFFFE0;
+body{
+    background: #E1EEE8;
+}
+
+.container-center{
+    background: #DDDFDE;
+    max-width: 1024px;
+    min-width: 725px;
+    margin: 20px auto;
+    font-family: 'Roboto';
+    color: #414042;
+}
+.nav {
+    display: flex;
+    width: 100%;
+}
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.navitem {
+    list-style: none;
+}
+.navlink{
+    text-decoration: none;
+    color: #414042;
+    padding: 15px 15px;
+    font-family: 'Roboto';
+    font-size: 16px;;
+}
+.navlink:hover {
+    background: #FEEDE6;
+    padding: 15px 15px;
 }
